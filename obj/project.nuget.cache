@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aTXI/s+o6BF7Ml9OSzuqJu5WPZrsYFTJjFWNQUvbHKeE+gqXvMkkMA7AI03UYcaq0fpggtKqbIwhNAdLKJErVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\epicg\\source\\repos\\LoginDocker\\LoginDocker\\LoginDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\epicg\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
